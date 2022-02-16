@@ -1,6 +1,6 @@
 Teste Vaga PHP
 
-# ----------------------- #
+
 #       Desenvolver       #
 
 -> Crie uma interface(página na web) onde você consiga, CADASTRAR, ALTERAR e EXCLUIR um produto, você tem que salvar esses
