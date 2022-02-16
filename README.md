@@ -2,7 +2,7 @@ Teste Vaga PHP
 
 # ----------------------- #
 #       Desenvolver       #
-# ----------------------- #
+
 -> Crie uma interface(página na web) onde você consiga, CADASTRAR, ALTERAR e EXCLUIR um produto, você tem que salvar esses
 dados no banco de dados.
 
@@ -21,9 +21,8 @@ dados no banco de dados.
 
 
 
-# ----------------------- #
 #     Banco de dados      #
-# ----------------------- #
+
 user:           root
 
 pass:           tt333
@@ -34,9 +33,9 @@ bancodedados:   produtos
 
 
 
-# ----------------------- #
+
 # Informações adicionais: #
-# ----------------------- #
+
 1) Faça da forma em que se sentir melhor, deixe sua imaginação fluir...
 
 2) A foto do produto deverá sere salva dentro de uma pasta com o código do produto ( Exemplo: E:\www\produto\333\ )
